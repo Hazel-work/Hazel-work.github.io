@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haowuxingqiu.github.io</id>
     <title>好物星球</title>
-    <updated>2020-07-09T05:20:20.340Z</updated>
+    <updated>2020-07-09T06:58:21.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haowuxingqiu.github.io"/>
     <link rel="self" href="https://haowuxingqiu.github.io/atom.xml"/>
@@ -11,35 +11,28 @@
     <icon>https://haowuxingqiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 好物星球</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://haowuxingqiu.github.io/post/hello-gridea/</id>
-        <link href="https://haowuxingqiu.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[全新收纳法：牛皮纸收纳]]></title>
+        <id>https://haowuxingqiu.github.io/post/quan-xin-shou-na-fa-niu-pi-zhi-shou-na/</id>
+        <link href="https://haowuxingqiu.github.io/post/quan-xin-shou-na-fa-niu-pi-zhi-shou-na/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-07-09T06:03:18.000Z</updated>
+        <content type="html"><![CDATA[<hr>
+<p>在没有遇到牛皮纸之前，我的日常收纳一般借助塑料盒、置物架实现。</p>
+<p>这些常见的收纳工具，一般比较占地方，搬家时更是麻烦。</p>
+<p>而且和牛皮纸比起来，它还有一个很大的缺点——贵！</p>
+<p><strong>而在遇到牛皮纸后，才发现，原来收纳这个事情，同样可以有趣且轻便。</strong></p>
+<hr>
+<p>这是牛皮纸的样子，它有多种规格，可以满足不同物品的收纳需求：</p>
+<figure data-type="image" tabindex="1"><img src="https://haowuxingqiu.github.io/post-images/1594276017543.jpg" alt="" loading="lazy"></figure>
+<p>这是牛皮纸变成收纳工具后的样子：</p>
+<figure data-type="image" tabindex="2"><img src="https://haowuxingqiu.github.io/post-images/1594277648710.jpg" alt="" loading="lazy"></figure>
+<p>当然 ，你可以对它进行适当的美化。</p>
+<hr>
+<p>你可以将它用于衣柜收纳，放置一些如袜子、贴身衣物等小件物品；</p>
+<p>也可以将一些杂碎用品、文具办公品收纳在不同的纸袋中，让你的桌面保持干净整洁；</p>
+<p>此外，厨房、客厅的收纳，护肤品、日用品的收纳等等，你能想到的收纳场景，基本都可以通过它来实现。</p>
+<p>最重要的是，它对租房党的友好度为100%。<strong>轻便好用、价格便宜、用完即走、高效收纳</strong>等一系列特点让它成为断舍离时代必备的收纳好物。</p>
+<hr>
 ]]></content>
     </entry>
 </feed>
