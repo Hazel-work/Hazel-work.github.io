@@ -2,18 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haowuxingqiu.github.io</id>
     <title>好物星球</title>
-    <updated>2020-07-10T01:49:57.573Z</updated>
+    <updated>2020-07-10T09:06:30.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haowuxingqiu.github.io"/>
     <link rel="self" href="https://haowuxingqiu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>你可以在归档中查看更多好物推荐~</subtitle>
     <logo>https://haowuxingqiu.github.io/images/avatar.png</logo>
     <icon>https://haowuxingqiu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 好物星球</rights>
     <entry>
+        <title type="html"><![CDATA[选品手册 | 持续完善中]]></title>
+        <id>https://haowuxingqiu.github.io/post/how-to-select/</id>
+        <link href="https://haowuxingqiu.github.io/post/how-to-select/">
+        </link>
+        <updated>2020-07-10T03:26:54.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>什么才是好物？<br>
+如何定义「高性价比」？<br>
+且听我们慢慢道来~</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>什么才是好物？<br>
+如何定义「高性价比」？<br>
+且听我们慢慢道来~</p>
+</blockquote>
+<!-- more -->
+</br>
+<table><tr><td bgcolor=#D9BCBC><font color=white>壹 · 流程篇 </font></td></tr></table>
+<p>我们不追求大而全，不做类似于电商平台的商品分类。</p>
+<p>我们推荐的基本逻辑为：<strong>按不同的场景分类选品，并进行推荐</strong>。</p>
+<p>可拆解为如下几个步骤：</p>
+<ul>
+<li>首先思考在何种场景下会用到什么样的产品</li>
+<li>针对每一种特定的产品，依据后文所述的选品原则，进行筛选、比较</li>
+<li>每种产品只推荐一款最具性价比的选择</li>
+<li>按照场景进行分类呈现，让你快速定位并购齐所需</li>
+</ul>
+</br>
+<table><tr><td bgcolor=#D9BCBC><font color=white>贰 · 商家篇 </font></td></tr></table>
+<p>在确定商品品类及该品类下对应的商品品种后，下一步就是商品的筛选和比较过程。</p>
+<p>这一步可以说是我们甄选好物的大头，每一步都要严格把关。</p>
+<p>一般结合如下几个指标进行综合判断：</p>
+<ul>
+<li>商家的基本信息 （包括但不限于：注册日期、供应等级、经营范围、诚信通）</li>
+<li>商家态度 （回复消息的速度及态度，基本流程是否完善，基本问题能否得到解决等）</li>
+<li>发货问题 （发货时间、发货渠道、平均发货速度、库存情况等）</li>
+<li>退换货问题 （是否支持退换货，退换是否有保障，费用如何分担等）</li>
+<li>运费及起批量 （ 平摊下来的运费单价是否合理；起批量是否合适；是否提供一件代发；若提供，申请分销的流程是否简便易操作等）</li>
+<li>未完待续......</li>
+</ul>
+</br>
+<table><tr><td bgcolor=#D9BCBC><font color=white>叁 · 产品篇 </font></td></tr></table>
+<p>这里的「选好物」过程，则围绕如何提高推荐品的性价比而展开。</p>
+<p>而谈及性价比，正如我们在<a href="http://haowu.talkmoney.cn/post/about/">好物星球团队</a>所定义的：<strong>用最实惠的价格买到最合适的产品</strong>。</p>
+<p>我们将“实惠”和“满足需求”进行拆解，得出如下几个指标，并将其作为判定性价比的主要依据：</p>
+<ul>
+<li>价格（行业均价，产品成本价预估，1688 内部比价，1688 与淘宝及拼多多的比价等）</li>
+<li>质量（基本功能及信息、产品详情介绍、用户评价对比、来样体验）</li>
+<li>评价（评价数量及情况，源头厂家的淘宝分销店评价「参见<a href="http://haowu.talkmoney.cn/post/1688tutorials/">1688购物指南</a>」）</li>
+<li>功能（是否满足特定场景下的基本需求，是否能够提供超预期体验等）</li>
+<li>易用性（产品的上手难度，产品的适用群体范围等）</li>
+<li>外观及其他（围绕商品自身的属性自行增加评定指标，并进行对比筛选）</li>
+<li>未完待续......</li>
+</ul>
+</br>
+<table><tr><td bgcolor=#D9BCBC><font color=white>肆 · 杂谈篇 </font></td></tr></table>
+<p>这篇手册尚且不够成熟，还有许多要完善的细节。</p>
+<p>但请相信，我们的选品过程严格地按照我们的选品原则来执行。</p>
+<p>这是一个需要长期深耕的领域，我们也在不断努力着。</p>
+<p>所以，希望你能包容我们的不足，并向我们提出宝贵的意见或建议。</p>
+<p>事实上，对于大部分和我们一样的初创团队而言，用户的声音往往是最重要的，这将是我们调整方向和步伐以更好成长的必经之路。</p>
+<p>也希望能有你和我们一起，见证好物星球的成长。</p>
+</br>
+<blockquote>
+<p>原创所有，禁止转载或盗用。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[轻便收纳法 —— 牛皮纸收纳]]></title>
-        <id>https://haowuxingqiu.github.io/post/quan-xin-shou-na-fa-niu-pi-zhi-shou-na/</id>
-        <link href="https://haowuxingqiu.github.io/post/quan-xin-shou-na-fa-niu-pi-zhi-shou-na/">
+        <id>https://haowuxingqiu.github.io/post/niupizhi-gathering/</id>
+        <link href="https://haowuxingqiu.github.io/post/niupizhi-gathering/">
         </link>
         <updated>2020-07-09T06:03:18.000Z</updated>
         <content type="html"><![CDATA[<style>
@@ -264,7 +334,7 @@ html[data-theme=dark] .LinkCard-image--default {
 <table><tr><td bgcolor=#DAE4E6> 伍  · 选好物 </td></tr></table>
 <p>如果看到这里，说明你对牛皮纸收纳这一概念已经有了初步的认知，下一步就是去寻找合适的牛皮纸了。</p>
 <p>够买的渠道有很多，除了大家经常去的淘宝、拼多多，这里我们更想推荐一款<strong>来自1688平台</strong>上的高性价比产品。</p>
-<p>这里想强调的是：<strong>我们只做推荐，不做推广，与厂家无任何商业合作。此外，我们的商品选择严格遵循<a href="www.always.ink">选品手册</a>，性价比方面尽管放心</strong>。</p>
+<p>这里想强调的是：<strong>我们只做推荐，不做推广，与厂家无任何商业合作。此外，我们的商品选择严格遵循<a href="http://haowu.talkmoney.cn/post/how-to-select/">选品手册</a>，性价比方面尽管放心</strong>。</p>
 <a target="_blank" href="https://qr.1688.com/share.html?secret=CzHWnUsZ" class="LinkCard LinkCard--hasImage">
     <span class="LinkCard-backdrop" style="background-image:url(http://image.talkmoney.cn/2020-7-9/1594279375916.png);"></span>
     <span class="LinkCard-content">
@@ -306,7 +376,7 @@ html[data-theme=dark] .LinkCard-image--default {
     </span>
 </a>
 <p>事实上，1688 上类似的厂家还有很多。以牛皮纸为例，浙江省苍南县有大量的厂商生产这种类型的牛皮纸，因此你也可以自行到 1688 平台上挑选最合适你的产品。</p>
-<p>如果需要，这是我们整理的一份<a href="">1688购物指南</a>，里面提供了一些在1688平台上购物的注意点及小技巧，仅供参考。</p>
+<p>如果需要，这是我们整理的一份<a href="http://haowu.talkmoney.cn/post/1688tutorials/">1688购物指南</a>，里面提供了一些在1688平台上购物的注意点及小技巧，仅供参考。</p>
 </br>
 <table><tr><td bgcolor=#DAE4E6> 陆 · 小提示</td></tr></table>
 <p>而如果你没有那么多时间去挑选对比，同时认可我们的选品原则及理念，那么在你正式购买前，还有几点小提示请收下~</p>
@@ -315,18 +385,147 @@ html[data-theme=dark] .LinkCard-image--default {
 <p><strong>2、运费问题</strong>。</p>
 <p>大部分 1688 厂家与快递公司并无合作，因此大部分快递费需要自理。但即便如此，加上快递费后的价格仍然会比淘宝便宜许多，同时质量有一定的保证。（来自1688重度使用者的亲身购物体验）</p>
 <p><strong>3、起批量问题</strong>。</p>
-<p>正如1688 平台自身的定位，它还是侧重批发而非零售，因此一般情况下会对起批量有一定的要求。当然，如果你看过我们的<a href="">1688购物指南</a>，你会发现1688同样可以作为零售购买的好去处。</p>
+<p>正如1688 平台自身的定位，它还是侧重批发而非零售，因此一般情况下会对起批量有一定的要求。当然，如果你看过我们的<a href="http://haowu.talkmoney.cn/post/1688tutorials/">1688购物指南</a>，你会发现1688同样可以作为零售购买的好去处。</p>
 <p>不过对于这些需要购买一定数量的商品来说，起批量的影响并不是太大，而且牛皮纸的存放并不占地方，你可以一次性购买一定数量，日后有收纳需时便能做到“随用随叠”。</p>
 <p><strong>最后，购买前建议和商家进一步沟通需求，产品推荐仅供参考。</strong></p>
 </br>
 <table><tr><td bgcolor=#DAE4E6> 柒 · 结语 </td></tr></table>
 <blockquote>
 <p>参考来源：B站UP主 | 阿玫小酱当当囧 （若侵权，请联系作者邮箱 meet.hazel.er@gmail.com）<br>
-图片来源：1 - 1688商家 | 苍南县翰森包装制品厂  &amp;   2 -  自制 | <a href="%E6%94%BE%E4%B8%8A%E5%9B%A2%E9%98%9F%E7%90%86%E5%BF%B5%E7%95%8C%E9%9D%A2%E9%93%BE%E6%8E%A5">好物星球团队</a><br>
-更多好物：<a href="">宿舍收纳好物</a>  |  <a href="">早餐好物</a><br>
+图片来源：1 - 1688商家 | 苍南县翰森包装制品厂  &amp;   2 -  自制 | <a href="http://haowu.talkmoney.cn/post/about/">好物星球团队</a><br>
+更多好物：持续更新中<br>
 原创声明：原创所有，转载请联系作者并注明出处。<br>
 团队声明：好物星球团队不接受任何形式的商业推广，商业合作型厂家勿扰。</p>
 </blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1688 | 购物指南篇]]></title>
+        <id>https://haowuxingqiu.github.io/post/1688tutorials/</id>
+        <link href="https://haowuxingqiu.github.io/post/1688tutorials/">
+        </link>
+        <updated>2020-07-08T06:37:26.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>如果你打算开启1688购物之旅，那么这份指南刚好适合你~</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>如果你打算开启1688购物之旅，那么这份指南刚好适合你~</p>
+</blockquote>
+<!-- more -->
+<table><tr><td bgcolor=#D1C2D3><font color=white>壹 · 起批量问题</font></td></tr></table>
+<p>在 1688 平台上购物，一般是会有起批量要求的。</p>
+<p><strong>但是你千万不要被商家设定的起批量劝退，因为它实际上有较大的变通空间</strong>。</p>
+<p>而如何变通，则需要借助于商家提供的「<strong>混批</strong>」及「<strong>一件代发</strong>」来实现了。</p>
+<h2 id="font-size4关于混批font"><font size=4>关于混批</font></h2>
+<p>混批意味着你可以在工厂里一次性购买多种不同的商品，以达到商家起批量的要求。</p>
+<p>如果商家提供混批，则你可以在商品主界面直接看到混批信息。</p>
+<h2 id="font-size4关于一件代发font"><font size=4>关于一件代发</font></h2>
+<p>对于一些不提供混批或者你只想单独采购的产品，同时其起批量有一定的要求。</p>
+<p>这时，你可以通过「一件代发」的方式，实现只采购一件商品的需求。</p>
+<p>而如何实现一件代发，这里分享给你一个小技巧。<strong>即在商品的主界面，选择「代发」，点击「分销下单」，选好你需要的商品规格后，再次点击「分销下单」，在弹出的弹框界面选择申请分销，即可直接跳转进入支付界面，然后正常支付即可购买成功</strong>。</p>
+<p>对于商家是否会正常发货的问题，一般情况下既然商家提供了这样一种下单渠道，则说明其是支持这样一种零售方式的，如果实在有顾虑，建议和商家提前进行沟通，</p>
+<p>因此，<strong>申请分销并不要求你一定要有淘宝店或者其他分销渠道</strong>，很多时候只是系统设定的问题，因此拍一件需要通过这种特殊的方式实现。</p>
+<p>当然，<strong>不是所有的商家都支持一件代发</strong>，或者在申请分销时会直接跳转到分销信息填写界面而非下单界面，因此如果你有顾虑，建议你在选购好后，提前和商家进行沟通，如果支持，商家一般也会告知你具体的下单方式，其基本和我们描述的方法大同小异。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>贰 · 评价少怎么办？</font></td></tr></table>
+<p>对于部分习惯于看评价的用户而言，1688平台上的评价过少的确会是一个很头疼的问题。但是这个问题同样可以变通解决。</p>
+<p>这里分享一个来自好物星球团队选品的小方法：即对于部分源头厂家或实力厂家，其一般在淘宝有较多的分销店，你可以借助商品主图在淘宝上「以图搜图」，并借助商品详情页判断是否为同一家商品，如果是，则完全可以参考淘宝上的评价辅助判断。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>叁 · 退换货问题</font></td></tr></table>
+<p>对大部分商家而言，他们一般只在「服务」中提及「七天包换服务」。</p>
+<p>但事实上，部分商家针对零售买家，同样是提供退货服务的，只不过需要运费自理，因此建议在购买前仔细甄选后再下单，避免后续不必要的麻烦。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>肆 · 运费问题</font></td></tr></table>
+<p>好物星球团队专门研究了1688 在各平台的用户反馈情况，发现有较多用户反映存在「运费下单前后不一致」的问题，这对部分新手买家而言，的确是一个不小的困扰。</p>
+<p>在这里，我们想概括地说一下这个问题。</p>
+<p>首先我们需要知道的是，1688 上大部分商家和快递公司其实是没有合作的，这也就意味着不管是发货运费还是退换货运费都是需要自理的，但是很多情况下，就算加上运费，从 1688 源头厂家拿货的价格还是比淘宝低，并且有性价比保证。</p>
+<p>如果你能接受快递运费问题，那么你还需要了解一下运费的计算方式，你也可以直接在下单界面中的快递费用详情里找。</p>
+<p>但一般情况下，和大部分快递公司计算方式一样，商品运费由首重运费和加重运费组成。因此，如果下单前后运费不一致，则很有可能是商品重量超过了首重，你可以适当作出相应调整。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>伍 · 售前服务</font></td></tr></table>
+<p>同样受到很多吐槽的还有 1688 上厂商的服务态度问题，大部分用户习惯了淘宝客服的“亲”和秒回，对比这些回复较慢、态度较冷淡的商家，难免会有落差感。</p>
+<p>这的确是无法避免的坎，毕竟我们作为零售消费者，议价能力的确较小。</p>
+<p>因此，一方面，好物星球团队会提前为你试探某一选品下的商家态度，尽可能推荐态度较好的商家产品；同时，1688 上态度较差的商家也只是一部分的存在，并不代表所有，而且近几年的确也有好转的迹象。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>陆 · 售后服务</font></td></tr></table>
+<p>大部分情况下，如果存在需要售后的情况，和商家直接沟通即可得到答案。同时，商家的售后情况也是我们在选好物过程中会提前考虑并进行筛选的。</p>
+<p>而如果实在得不到回应，则可走正常的售后投诉渠道。<br>
+</br></p>
+<table><tr><td bgcolor=#D1C2D3><font color=white>柒 · 发货时间问题</font></td></tr></table>
+<p>一般情况下，发货时间会控制在正常的时间范围内，发货渠道也是常见的物流渠道。</p>
+<p>但在购买前，还是建议你看一下商家的库存情况。尤其是对于特别急需的货物，建议和商家进一步沟通，看是否能立刻发货或者更改发货渠道等。</p>
+</br>
+<table><tr><td bgcolor=#D1C2D3><font color=white>捌 · 未完待续</font></td></tr></table>
+<p>购物这个事情很复杂，我们提供的指南也只能作为你的一个小小参考。</p>
+<p>并且，1688 上售卖同类产品的商家数量一般有很多，质量也良莠不齐。因此，如果你自己在这个平台上选购商品，可参考我们的<a href="http://haowu.talkmoney.cn/post/how-to-select/">选品原则</a>进行对比筛选，避免买到质量差、退换货麻烦的商品。</p>
+<p>但是，尽管 1688 上有着这样或那样的缺点，也没有很多的优惠、满减活动，但它有很多的源头厂家，其提供的价格有时甚至比优惠后的价格更加有吸引力，发现性价比好物的机会也更多。</p>
+<p>所以说，没有一个购物平台是完美的，我们要做的，就是尽可能擦亮自己的双眼，掌握特定的技巧，以获得高效、高性价比的购物体验。</p>
+<p>最后，希望这份持续更新的购物指南能助你开启全新的 1688 购物体验之旅，在这里，你也许能发现真正的性价比。<br>
+</br></p>
+<blockquote>
+<p>原创所有，禁止转载或盗用。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我们 | 好物星球团队]]></title>
+        <id>https://haowuxingqiu.github.io/post/about/</id>
+        <link href="https://haowuxingqiu.github.io/post/about/">
+        </link>
+        <updated>2020-07-07T08:53:11.000Z</updated>
+        <content type="html"><![CDATA[<table><tr><td bgcolor=#869D9D> <font color=white>我们是谁?</font></td></tr></table>
+<p>我们是万千创业团队中渺小的存在，虽然渺小，却有着大大的梦想。</p>
+<p>就像在这样一个信息爆炸的时代，好和坏的理解有万千种。</p>
+<p><strong>而我们想做的这件事，便是认真地去定义“好”这个概念</strong>。</p>
+<p>要找到一群这样的人，他们和你有着同样的憧憬，朝着同一个方向努力着，从不知难而退，说实话，真的很难。</p>
+<p>这样一种可遇不可求的事情，很幸运，我们遇见了。</p>
+<p>我们的团队也许还很年轻，但我们的理念足够新颖，方向足够明晰，脚步足够坚定，更重要的，我们在用心地做着这件事情。</p>
+<p>我们希望，在可见的未来，当人们谈及“好物”时，“星球”也会随之出现。<br>
+</br></p>
+<table><tr><td bgcolor=#869D9D> <font color=white>我们在做什么?</font></td></tr></table>
+<p>同许多人一样，我们在没有真正了解1688这个平台之前，也会笼统地将其归纳为一个“搞批发”的平台。</p>
+<p>但事实上，在深度使用一段时间后，却不免感叹相见恨晚。</p>
+<p>是的，谁说批发网站只能做批发? 它对普通消费者而言的价值可远不止如此。</p>
+<p>也许是信息爆炸逼疯了一批选择恐惧症，亦或者大家没有时间筛选好物，只能通过成熟的平台去购买商品，只为图个省心。</p>
+<p>我们承认，这些平台的确有优势。但如果我们说，我们能为你提供更具性价比的选择，你是否会心动?</p>
+<p>当然，这个选择实际上并不由我们提供。</p>
+<p><strong>我们不卖产品，也不做电商，而是仅仅基于1688这个平台，依据专业化的选品手册，事先为你筛选一批值得购买的高性价比好物，并按场景进行分类推荐</strong>。</p>
+<p>在你需要购物时，只需思考一件事，那便是你会在何种场景下用到这个产品，然后点开对应的场景目录即可。</p>
+<p>你无需再去进行那些繁琐的搜索、比价、看评价等耗时间的操作，因为这些，我们都已经替你考虑过了。</p>
+<p>所以如果你认可我们的选品原则并选择相信我们，那么，好物星球的推荐绝对不会让你失望。<br>
+</br></p>
+<table><tr><td bgcolor=#869D9D> <font color=white>我们的原则</font></td></tr></table>
+<p>也许你会说，你这样一种花时间做好物推荐的行为，图什么？最后还不是商业推广，你们就是打广告的。</p>
+<p>在这里，我们要正儿八经地为自己正个名。</p>
+<p><strong>首先，我们只做推荐，不做推广。</strong></p>
+<p>我们只从用户的视角出发去寻找真正的好物，而绝不会将商业利益考虑入好物推荐中。</p>
+<p>这时你可能会问，那你不盈利，你图什么？用户隐私有保证吗？</p>
+<p>在这里，请你们放一百个心。<strong>我们的长期盈利模式是完善、正规且可持续的，在短期内可能不会考虑实现盈利，但长期也绝对不会以用户隐私作为盈利代价</strong>。</p>
+<p>因为我们坚信，用户而非商业利益，才是我们产品得以生存的基本前提。</p>
+<p><strong>其次，我们的“选好物”过程严格遵循选品手册</strong>，旨在通过专业化的选品方式高效地选择、推荐各类好物，节省用户的决策时间，让用户以最少的时间买到最具性价比的产品。</p>
+<p><strong>同时，我们也不靠卖产品赚钱</strong>，即所有的产品均来自1688厂家，我们只做维度筛选，因此推荐仅供参考，你同样可以依据个人需求去选择更合适的商家。</p>
+<p><strong>最后，好物星球团队不接受任何形式的商业推广</strong>，也绝对不会让商业合作影响我们的选品和推荐选择，当然，我们也没有商业合作。<br>
+</br></p>
+<table><tr><td bgcolor=#869D9D> <font color=white>我们能为你带来什么?</font></td></tr></table>
+<p>在没真正体验1688平台购物之前，我对它的感知并不是很好。可以说，在用户被充分教育的时代，它真的不是一个及格的零售平台。</p>
+<p>但在尝试着多去购买几次后，却发现自己已经越来越离不开它了。</p>
+<p>而它所带来的性价比，便是我们最想分享给你们的。</p>
+<p><strong>所谓性价比，我们将其定义为：用最实惠的价格买到最合适的产品。</strong></p>
+<p>而关于实惠，我想作为一个批发平台，它所具备的价格优势是不言而喻的。</p>
+<p>也许你会说它需要自付运费，并且有起批量限制，在这里推荐你看看我们的<a href="http://haowu.talkmoney.cn/post/1688tutorials/">1688购物指南</a>，看完后你也许会有不同的答案。</p>
+<p><strong>说完实惠，再来谈谈合适。</strong></p>
+<p>很多人对“合适”的界定有所不同，有的人有品质要求，有的人则认为能用就行。</p>
+<p>所以，在这里，我们同样想认真地去定义“合适”这一概念。</p>
+<p>在我们看来，合适首先是能够满足我们的基本购物需求；其次，如果能在这个基础上再加一些美观的装饰或者提供一些超预期功能，那么它会更有吸引力。</p>
+<p>而这些，恰好你都能在1688上找到。</p>
+<p>所以，基于性价比需求，我们做了场景分类，每个场景下的好物都刚好能够满足你的基本需求，同时偶尔也会给你带来一些小惊喜。</p>
+ </br>
+ <table><tr><td bgcolor=#869D9D> <font color=white>寄语</font></td></tr></table>
+<p>要把选品 &amp; 推荐这个事情做好、做专业，并且从一而终地做下去，不仅仅需要长期的摸索和积累，更要有持之以恒的热心和耐心。</p>
+<p>这真的是一个很漫长的过程，但好在，我们还年轻。</p>
+<p>所以，如果你愿意看、愿意等，那么这些，相信你都会在未来的好物星球中看见。</p>
+<p><font color=#869D9D>愿我们，不见不散。</font></p>
 ]]></content>
     </entry>
 </feed>

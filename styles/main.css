@@ -1816,3 +1816,16 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
           background: RGBA(32,201,151,0.2)!important;
         }
          
+      .gt-post-content img {
+    max-width: none !important;
+}
+.gt-post-content figure img {
+    max-width: 70% !important;
+}
+.gt-post-content blockquote {
+    border-color: #E6ECEB !important;
+    color: #999;
+    background: none !important;
+}
+
+    
