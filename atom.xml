@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://today.always.ink</id>
-    <title>好物星球</title>
-    <updated>2021-03-08T16:28:25.800Z</updated>
+    <title>我亦是行人</title>
+    <updated>2021-03-08T16:30:33.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://today.always.ink"/>
     <link rel="self" href="https://today.always.ink/atom.xml"/>
     <subtitle>你可以在归档中查看更多好物推荐~</subtitle>
     <logo>https://today.always.ink/images/avatar.png</logo>
     <icon>https://today.always.ink/favicon.ico</icon>
-    <rights>All rights reserved 2021, 好物星球</rights>
+    <rights>All rights reserved 2021, 我亦是行人</rights>
     <entry>
         <title type="html"><![CDATA[仪式感好物 | 陶瓷花瓶]]></title>
         <id>https://today.always.ink/post/Ceramic-vase/</id>
